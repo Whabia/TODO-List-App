@@ -4,7 +4,9 @@ A modern and responsive To-Do List application built using **HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-Coming Soon...
+## 🚀 Live Demo
+
+[Click here to view the project](https://whabia.github.io/TODO-List-App/)
 
 ## ✨ Features
 
